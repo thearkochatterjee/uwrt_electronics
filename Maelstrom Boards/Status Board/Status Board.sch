@@ -214,18 +214,18 @@ DIN A3, landscape with location and doc. field</description>
 <hole x="65" y="0" drill="2.8"/>
 <hole x="65" y="33.1" drill="2.8"/>
 <hole x="0" y="33.1" drill="2.8"/>
-<pad name="RST" x="25.5" y="4" drill="0.8"/>
-<pad name="SCL" x="27.5" y="4" drill="0.8"/>
-<pad name="SDA" x="29.5" y="4" drill="0.8"/>
-<pad name="VSS" x="31.5" y="4" drill="0.8"/>
-<pad name="VDD" x="33.5" y="4" drill="0.8"/>
-<pad name="VOUT" x="35.5" y="4" drill="0.8"/>
-<pad name="C1+" x="37.5" y="4" drill="0.8"/>
-<pad name="C1-" x="39.5" y="4" drill="0.8"/>
-<pad name="A" x="-6" y="24.5" drill="1.8" shape="long"/>
-<pad name="RK" x="-6" y="21.5" drill="1.8" shape="long"/>
-<pad name="GK" x="-6" y="18.5" drill="1.8" shape="long"/>
-<pad name="BK" x="-6" y="15.5" drill="1.8" shape="long"/>
+<pad name="C1-" x="25.5" y="4" drill="0.8"/>
+<pad name="C1+" x="27.5" y="4" drill="0.8"/>
+<pad name="VOUT" x="29.5" y="4" drill="0.8"/>
+<pad name="VDD" x="31.5" y="4" drill="0.8"/>
+<pad name="VSS" x="33.5" y="4" drill="0.8"/>
+<pad name="SDA" x="35.5" y="4" drill="0.8"/>
+<pad name="SCL" x="37.5" y="4" drill="0.8"/>
+<pad name="RST" x="39.5" y="4" drill="0.8"/>
+<pad name="BK" x="-6" y="24.5" drill="1.8" shape="long"/>
+<pad name="GK" x="-6" y="21.5" drill="1.8" shape="long"/>
+<pad name="RK" x="-6" y="18.5" drill="1.8" shape="long"/>
+<pad name="A" x="-6" y="15.5" drill="1.8" shape="long"/>
 <wire x1="-3.3" y1="3" x2="-2.25" y2="3" width="0.1524" layer="21"/>
 <wire x1="-2.25" y1="3" x2="2.25" y2="3" width="0.1524" layer="21"/>
 <wire x1="2.25" y1="3" x2="62.75" y2="3" width="0.1524" layer="21"/>
